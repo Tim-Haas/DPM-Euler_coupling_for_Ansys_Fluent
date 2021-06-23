@@ -5,7 +5,7 @@ Lagrange Particle Tracking (LPT) is commonly implemented with the particle sourc
 In those situations, momentum coupling with a single cell causes unphysical results like pseudo-turbulence (particle velocity fluctuations then the particle crosses a cell face) and an overestimate of both, the fluid and particle velocity (see figure below). Finally, it causes divergence. 
 
 
-<img src="Cmp_Mapping_6mmbubble_on2mmgrid.png" width="450" height="390"> <img src="Cmp_Mapping_20mmbubble_on2mmgrid.png" width="450" height="390"> 
+<img src="Cmp_Mapping_6mmbubble_on2mmgrid.png" width="400" height="360"> <img src="Cmp_Mapping_20mmbubble_on2mmgrid.png" width="400" height="360"> 
 
  <p align="center"> Comparison between regular PSI model, Fluent node-based averaging and DPM-Euler coupling for a 6 mm and a 20 mm bubble on a 2 mm Eulerian grid </p>
 
