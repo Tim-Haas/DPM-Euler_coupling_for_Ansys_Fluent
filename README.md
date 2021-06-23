@@ -32,4 +32,8 @@ For coupling, a influencing sphere around the Lagrange particle is defined and a
 <br>-Constant lift coefficient 0.5
 <br><i>Choose the model by setting the LIFT_FLAG</i>
 
+A guide how to hook the UDFs in Fluent is provided in the Manual.
+
 The UDF was tested on Fluent 2019 R3
+
+Copyright (c) Institut für Industrieofenbau RWTH Aachen University - All Rights Reserved Unauthorized copying of this file, via any medium is strictly prohibited Proprietary and confidential Written by Tim Haas haas@iob.rwth-aachen.de, 2021
